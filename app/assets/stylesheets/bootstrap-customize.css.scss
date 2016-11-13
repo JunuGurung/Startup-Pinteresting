@@ -1,0 +1,20 @@
+//@import url('https://fonts.googleapis.com/css?family=Niconne&subset=latin-ext');
+ 
+$navbar-default-bg:#00BCD4;
+$body-bg: #E0F7FA;
+$navbar-default-link-color: white;
+$jumbotron-bg: white;
+
+.center{
+	text-align: center;
+}
+
+.navbar-brand{
+	font-size:500px;
+	font-family: 'Niconne', cursive;
+	font-weight:bold;
+	
+}
+
+
+@import 'bootstrap';
